@@ -35,8 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/RmzIP53ja0RJ9skOGV" width="221" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RmzIP53ja0RJ9skOGV">via GIPHY</a></p>
-
+<iframe src="https://giphy.com/embed/qBH1YjGhH03doEB8Di" width="221" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qBH1YjGhH03doEB8Di">via GIPHY</a></p>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
